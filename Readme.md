@@ -1,20 +1,16 @@
-# Git Course 
-Osny Machado de Souza Neto
-Luciana da Rosa de Souza
-
-Testando versionamento git
-
-Este é um repositorio teste para ensinar como o Git funciona.
-
-Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
-
-Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UTMFZUHX6EUGE)
-
-[![pagseguro](https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/164x37-doar-assina.gif)](https://pagseguro.uol.com.br/checkout/v2/donation.html?currency=BRL&receiverEmail=willianjustenqui@gmail.com)
-
-### Outros cursos
-
-Veja mais em : [willian justen cursos](http://willianjusten.com.br/cursos/).
-
+warning: LF will be replaced by CRLF in Readme.md.
+The file will have its original line endings in your working directory
+[1mdiff --git a/Readme.md b/Readme.md[m
+[1mindex f71b355..d4e1c34 100644[m
+[1m--- a/Readme.md[m
+[1m+++ b/Readme.md[m
+[36m@@ -1,8 +1,5 @@[m
+ # Git Course [m
+[31m-Osny Machado de Souza Neto[m
+[31m-Luciana da Rosa de Souza[m
+[31m-[m
+[31m-Testando versionamento git[m
+[32m+[m[32mVou usar git[m
+ [m
+ Este é um repositorio teste para ensinar como o Git funciona.[m
+ [m
