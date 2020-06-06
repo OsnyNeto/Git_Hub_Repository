@@ -2,6 +2,8 @@
 Osny Machado de Souza Neto
 Luciana da Rosa de Souza
 
+Testando versionamento git
+
 Este é um repositorio teste para ensinar como o Git funciona.
 
 Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
