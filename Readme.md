@@ -1,3 +1,4 @@
+Edição de teste
 warning: LF will be replaced by CRLF in Readme.md.
 The file will have its original line endings in your working directory
 [1mdiff --git a/Readme.md b/Readme.md[m
